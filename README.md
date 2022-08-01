@@ -1,1 +1,1 @@
-# JavaScriptFilterUsers
+# JavaScriptUsersFilter
